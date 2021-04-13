@@ -1,0 +1,10 @@
+C:\Users\super\OneDrive\Desktop\CMPS 480\Assignment3\bin\Debug\Assignment3.exe.config
+C:\Users\super\OneDrive\Desktop\CMPS 480\Assignment3\bin\Debug\Assignment3.exe
+C:\Users\super\OneDrive\Desktop\CMPS 480\Assignment3\bin\Debug\Assignment3.pdb
+C:\Users\super\OneDrive\Desktop\CMPS 480\Assignment3\obj\Debug\Assignment3.csprojAssemblyReference.cache
+C:\Users\super\OneDrive\Desktop\CMPS 480\Assignment3\obj\Debug\Assignment3.Form1.resources
+C:\Users\super\OneDrive\Desktop\CMPS 480\Assignment3\obj\Debug\Assignment3.Properties.Resources.resources
+C:\Users\super\OneDrive\Desktop\CMPS 480\Assignment3\obj\Debug\Assignment3.csproj.GenerateResource.cache
+C:\Users\super\OneDrive\Desktop\CMPS 480\Assignment3\obj\Debug\Assignment3.csproj.CoreCompileInputs.cache
+C:\Users\super\OneDrive\Desktop\CMPS 480\Assignment3\obj\Debug\Assignment3.exe
+C:\Users\super\OneDrive\Desktop\CMPS 480\Assignment3\obj\Debug\Assignment3.pdb
